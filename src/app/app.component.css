@@ -1,0 +1,31 @@
+.body{
+margin: auto;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 25px;
+text-align: center;
+width: 800px;
+height: 650px;
+background-color: #1b2838;
+color: white;
+}
+
+.dados1{
+  font-size: 25px;
+  text-align: left;
+  width: 750px;
+  height: 250px;
+  margin: 15px;
+  margin-top: -25px;
+  padding: 10px;
+  background-color: rgb(35, 71, 233);
+}
+
+.dados2{
+  font-size: 25px;
+  text-align: left;
+  width: 750px;
+  height: 250px;
+  margin: 15px;
+  padding: 10px;
+  background-color:rgb(35, 71, 233);
+}
