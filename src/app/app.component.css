@@ -21,6 +21,11 @@ color: white;
   background-color: rgb(35, 71, 233);
 }
 
+.dados1 a{
+  text-decoration: none;
+  color: white;
+}
+
 .dados2{
   font-size: 25px;
   text-align: left;
@@ -29,4 +34,9 @@ color: white;
   margin: 15px;
   padding: 10px;
   background-color:rgb(35, 71, 233);
+}
+
+.dados2 a{
+  text-decoration: none;
+  color: white;
 }
