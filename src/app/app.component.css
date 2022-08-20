@@ -1,3 +1,7 @@
+body{
+  background-color: #1b2838;
+}
+
 .body{
 margin: auto;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -12,13 +16,13 @@ color: white;
 .dados1{
   font-size: 25px;
   text-decoration: none;
-  text-align: left;
+  text-align: justify;
   width: 750px;
   height: 250px;
   margin: 15px;
   margin-top: -25px;
   padding: 10px;
-  background-color: rgb(35, 71, 233);
+  background-color: rgb(10, 40, 173);
 }
 
 .dados1 a{
@@ -28,12 +32,12 @@ color: white;
 
 .dados2{
   font-size: 25px;
-  text-align: left;
+  text-align: justify;
   width: 750px;
   height: 250px;
   margin: 15px;
   padding: 10px;
-  background-color:rgb(35, 71, 233);
+  background-color: rgb(10, 40, 173);
 }
 
 .dados2 a{
